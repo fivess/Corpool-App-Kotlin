@@ -31,8 +31,4 @@ Somos o grupo Noobs e estamos disponibilizando instruções para a utilização 
 - O mesmo se encontra no repositório como APP-RELEASE.apk, porém também está disponivel para download no link abaixo. ![image](https://github.com/n0obs/corpool-app/assets/93411725/63a17c92-7e06-4da3-b549-7b89eff4c4a5)
 - Link para download do APK: https://drive.google.com/drive/folders/1ldhPf8bAibRV1WEkI9x9aMUhDXT9Z_qq?usp=sharing
 
-## Pitch do Corpool
-- Não menos importante, confira o nosso pitch do Corpool no YouTube:
-  - *** link youtube : https://youtu.be/Ka-iduFJcfM ***
-
 Esperamos que aproveite a utilização do nosso aplicativo e acesse as informações necessárias por meio dessas instruções!
